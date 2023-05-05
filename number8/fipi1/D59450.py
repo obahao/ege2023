@@ -20,4 +20,4 @@ for a1 in s1:
                                     f = 1
                             if f == 0:
                                 k.append(ch)
-print(len(k))
+print(len(k)
